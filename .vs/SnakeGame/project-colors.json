@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd4a3a9c-89ec-41c9-b68c-d9c81cf4abf5": {
+      "ProjectGuid": "fd4a3a9c-89ec-41c9-b68c-d9c81cf4abf5",
+      "DisplayName": "SnakeGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

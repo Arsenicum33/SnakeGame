@@ -1,0 +1,33 @@
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\SnakeGame (TODO ML).exe.config
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\SnakeGame (TODO ML).exe
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\SnakeGame (TODO ML).pdb
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\Microsoft.ML.CpuMath.dll
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\Microsoft.ML.DataView.dll
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Buffers.dll
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.CodeDom.dll
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Memory.dll
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Threading.Channels.dll
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\Microsoft.ML.CpuMath.xml
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\Microsoft.ML.DataView.xml
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Buffers.xml
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Memory.xml
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Threading.Channels.xml
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\obj\Debug\SnakeGame__TODO_ML_.SnakeForm.resources
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\obj\Debug\SnakeGame__TODO_ML_.Properties.Resources.resources
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\obj\Debug\SnakeGame.csproj.GenerateResource.cache
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\obj\Debug\SnakeGame.csproj.CopyComplete
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\obj\Debug\SnakeGame (TODO ML).exe
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\obj\Debug\SnakeGame (TODO ML).pdb
+C:\Users\Арсений\source\repos\SnakeGame (TODO ML)\SnakeGame (TODO ML)\obj\Debug\SnakeGame.csproj.SuggestedBindingRedirects.cache
